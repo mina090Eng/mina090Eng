@@ -12,6 +12,10 @@ Focused on blue-team operations and building practical security tools.
   <a href="https://linkedin.com/in/mina-adel-kamel">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+   </a>
+  <a href="https://portofolio-lilac-gamma.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logoColor=white"/>
+  </a>
   <a href="mailto:menaadel6432@gmail.com">
     <img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -20,10 +24,7 @@ Focused on blue-team operations and building practical security tools.
   </a>
   <a href="https://www.instagram.com/minaadel09/">
     <img src="https://img.shields.io/badge/Instagram-BB2A6A?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://portofolio-lilac-gamma.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logoColor=white"/>
-  </a>
+ 
 </p>
 
 ---
